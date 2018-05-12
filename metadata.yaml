@@ -1,4 +1,8 @@
 _repo: The-Ashes-of-a-God_48909
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48909-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Bain, F. W. (Francis William)
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3998
     wikipedia: http://en.wikipedia.org/wiki/F._W._Bain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48909#The-Ashes-of-a-God
 gutenberg_issued: '2015-05-09'
 gutenberg_type: Text
 identifiers:
